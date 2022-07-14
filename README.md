@@ -1,5 +1,5 @@
 
-<a href="https://blog.naver.com/01075970528"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="https://blog.naver.com/01075970528" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 
 #### Hi there 👋
 I'm web developer, **Jina Kim** from South Korea.
@@ -11,7 +11,7 @@ I'm web developer, **Jina Kim** from South Korea.
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 #### And...
-##### 🔭 I’m currently working on <a href="https://aftmarket.tv">AFT market</a>
+##### 🔭 I’m currently working on <a href="https://aftmarket.tv" target="_blank">AFT market</a>
 ##### 🌱 I’m currently learning Blockchain
 
 
