@@ -1,5 +1,5 @@
 
-<a href="https://blog.naver.com/01075970528" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+
 
 #### Hi there 👋
 I'm web developer, **Jina Kim** from South Korea.
@@ -15,8 +15,8 @@ I'm web developer, **Jina Kim** from South Korea.
 ##### 🌱 I’m currently learning Blockchain
 <br>
 
-##### 🔗 [My Naver Blog](https://blog.naver.com/01075970528)
-##### 🔗 [My Velog](https://velog.io/@jinas1004)
+##### 🔗 <a href="https://blog.naver.com/01075970528" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> [My Naver Blog](https://blog.naver.com/01075970528) 
+##### 🔗 <a href="https://velog.io/@jinas1004" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> [My Velog](https://velog.io/@jinas1004)
 
 
 <!--
