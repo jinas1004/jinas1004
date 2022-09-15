@@ -13,6 +13,10 @@ I'm web developer, **Jina Kim** from South Korea.
 #### And...
 ##### 🔭 I’m currently working on <a href="https://aftmarket.tv" target="_blank">AFT market</a>
 ##### 🌱 I’m currently learning Blockchain
+<br>
+
+##### 🔗 [My Naver Blog](https://blog.naver.com/01075970528)
+##### 🔗 [My Velog](https://velog.io/@jinas1004)
 
 
 <!--
