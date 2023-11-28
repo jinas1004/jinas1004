@@ -11,7 +11,7 @@ I'm web developer, **Jina Kim** from South Korea.
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 #### And...
-##### 🔭 I’m currently working on <a href="https://aftmarket.tv" target="_blank">AFT market</a>
+##### 🔭 I’m currently working on <a href="https://beta.freeblox.net" target="_blank">FreeBLOX</a>
 ##### 🌱 I’m currently learning Blockchain
 <br>
 
